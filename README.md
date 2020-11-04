@@ -7,8 +7,7 @@ Simple Maven Project
 1. Login to Jenkins console
 1. Create *Jenkins job*, Fill the following details,
    - *Source Code Management:*
-      - Repository: `https://github.com/jvd2010/sem7_sgp_project.git`
-      - Branches to build : `*/master`  
+      - Repository: `https://github.com/jvd2010/sem7_sgp_project.git` 
    - *Build:*
      - Root POM:`pom.xml`
      - Goals and options : `clean install package`
